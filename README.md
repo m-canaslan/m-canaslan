@@ -16,4 +16,4 @@
 🌱 Plant Recognition & Reminder App
 
 ## 📫 Contact
-- GitHub: @kullaniciadin
+- GitHub: @m-canaslan
