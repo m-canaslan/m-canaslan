@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Mahmut Can
 
-<!--
-**m-canaslan/m-canaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Computer Engineering Student
+- Flutter & ASP.NET Core Developer
+- Interested in Mobile App Development
 
-Here are some ideas to get you started:
+## 🛠 Technologies
+- Flutter
+- Dart
+- C#
+- ASP.NET Core
+- SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Project
+🌱 Plant Recognition & Reminder App
+
+## 📫 Contact
+- GitHub: @kullaniciadin
