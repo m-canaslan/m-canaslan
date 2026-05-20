@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mahmut Aslan
+# Hi 👋 I'm Mahmut Can Aslan
 
 ## 🚀 About Me
 🎓 Computer Engineering Student  
